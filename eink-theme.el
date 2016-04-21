@@ -38,9 +38,9 @@
   "Theme emulating reading on an E Ink device.")
 
 (let ((fg "#111111")
-      (bg "#fffff8")
-      (bg-light "#ddddd8")
-      (fg-light "#ddddd8")
+      (bg "#fffffa")
+      (bg-light "#ddddda")
+      (fg-light "#ddddda")
       (bg-highlight "#FFF1AA")
       (bg-highlight-2 "LightCyan")
       (bg-highlight-3 "LightGreen"))
